@@ -103,3 +103,13 @@ void loop()
   // Aguarda 1 segundo
   	delay(1000);
 }  
+
+
+### Componentes:
+
+1 Arduino Uno R3,
+1 Sensor de temperatura [TMP36],
+1 LCD 16x2,
+4 Resistores,
+1 Potenciômetro,
+3 Leds [vermelho, verde, azul].
